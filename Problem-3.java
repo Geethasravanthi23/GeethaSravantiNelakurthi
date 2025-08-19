@@ -1,5 +1,4 @@
 
-// Problem-3.java
 import java.util.Scanner;
 
 public class Main {

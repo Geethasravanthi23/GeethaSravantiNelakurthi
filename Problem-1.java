@@ -1,5 +1,5 @@
 
-// Problem-1.java
+
 import java.util.Scanner;
 
 class Calculator {
